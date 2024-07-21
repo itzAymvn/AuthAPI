@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is an API built with Node.js, Express, and TypeScript, providing various functionalities and endpoints.
+This project is an Authentication API built with Node.js, Express, TypeScript, and JSON Web Token (JWT), providing various functionalities and endpoints.
 
 ## Features
 
