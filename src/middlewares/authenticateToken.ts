@@ -8,7 +8,7 @@
 import jwt, { JwtPayload } from "jsonwebtoken"
 import User from "../database/models/user"
 import { NextFunction, Request, Response } from "express"
-import Token from "../database/models/Token"
+import Token from "../database/models/token"
 
 const JWT_SECRET = process.env.JWT_SECRET
 
